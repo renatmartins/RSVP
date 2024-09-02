@@ -1,0 +1,10 @@
+name = "my-rsvp-worker"
+type = "javascript"
+account_id = "2ae8f3130bd95da331964100ef604909"
+workers_dev = true
+
+[build]
+command = "npm install && npm run build"
+
+[[deployments]]
+environment = "production"
