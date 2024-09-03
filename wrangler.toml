@@ -1,4 +1,4 @@
-name = "my-rsvp-worker"
+name = "rsvp"
 type = "javascript"
 account_id = "2ae8f3130bd95da331964100ef604909"
 workers_dev = true
